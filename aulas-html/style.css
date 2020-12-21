@@ -1,3 +1,7 @@
+body{
+    background: gray;
+}
+
 #title, .subtitle, .posttitle{
     color:blue;
 }
@@ -5,4 +9,17 @@
 .posttitle {
     font-size: 16px;
     font-style: italic;
+}
+
+.post{
+    background:white;
+    padding: 15px;
+    border: 2px solid #505050;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.image{
+    border-radius: 5px;
+    
 }
